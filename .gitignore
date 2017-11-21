@@ -1,6 +1,9 @@
 .idea/
+.gradle/
 target/
 output/
+build/
+src/generated
 
 *.iml
 *.log
